@@ -1,7 +1,7 @@
 import React,{Component} from 'react';
-import {Link} from 'react-router-dom';
+
 import fire from './config/fire';
-import { thisExpression } from '@babel/types';
+
 class Login extends Component{
     constructor(props){
         super(props);
