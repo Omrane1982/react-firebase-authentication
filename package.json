@@ -2,7 +2,7 @@
   "name": "react-firebase-authentication",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Omrane1982/react-firebase-authentication.git",
+  "homepage": "https://Omrane1982.github.io/react-firebase-authentication/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "firebase": "^6.3.1",
